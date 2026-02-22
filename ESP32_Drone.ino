@@ -36,10 +36,10 @@ struct {
 #pragma pack(pop)
 
 // ================= MOTORS =================
-const int motorFL = 25;
-const int motorFR = 33;
-const int motorRL = 26;
-const int motorRR = 27;
+const int motorFL = 26;
+const int motorFR = 27;
+const int motorRL = 25;
+const int motorRR = 33;
 
 // ================= PWM =================
 #define PWM_FREQ 10000
